@@ -64,6 +64,5 @@ This project focuses on:
 - **Integration into Larger Systems**: Using the optimized **8-input AND gate** as part of a larger **digital circuit** or **processor design** for **portable** and **IoT devices**.
 - Exploring **alternative transistor technologies** like **nanowires** or **carbon nanotubes** for next-generation circuits.
 
----
-🚀 **This project serves as an exploration into advanced transistor designs for achieving high-performance, low-power digital systems, leveraging **FinFET** and **Dual-Vt Domino Logic** for optimized circuit designs.**
+
 
